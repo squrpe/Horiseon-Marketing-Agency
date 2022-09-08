@@ -29,7 +29,7 @@ To access this project, you can download an IDE of your choice but we recommend 
 
 After downloading the IDE of your choice you will have access to the raw code. However to host the webpage locally, you will need to download an extension that allows you to open it into your default browser or in your IDE. I recommend Liveserver:
 
-![alt text](Assets/liveserver.png)
+![alt text](exampleassests/liveserver.png)
 
 Then using this type of extension, right clicking the file and pressing "Open with Live Server" allows you to open the webpage in your default browser.
 
